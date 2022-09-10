@@ -1,0 +1,2 @@
+# Shivac4-DDoS-
+B1 - Lên chrom tải Termux Apk ( Bắt Buộc )  Tải Về Sau Đó Vào Ứng Dụng Nhé   B2 - vào nhập cho mình lệnh . lệnh 1 : termux-setup-storage ( Nếu hiện chữ cho phép thì ấn cho phép nhé ) Lệnh 2 : cd /sdcard/download  lệnh 3 :     ls  Lệnh 4 : pkg install openjdk-17 Lệnh 5 : sau đó nhập java shivac4.java   ( là vào tool nhé   B3 nó hiện lên dòng đầu nhập số 17000 Dòng 2 : 40000 Vậy là chạy nhé , tool not cloufare nhé
